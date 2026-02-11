@@ -51,4 +51,3 @@ This repository contains solutions for Assignment 2 of the DATA 221 course. Each
 - pandas
 - requests
 - beautifulsoup4
-- lxml (recommended for HTML parsing)
